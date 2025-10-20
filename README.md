@@ -5,16 +5,16 @@ The techstack if the project includes: HTML,CSS and JavaScript for the fornt end
 github for version control and figma for UI/UX design
 
 # UI/UX design planning
--Design Goals
-*Create intuitive booking flow
-*Maintain visual consistency
-*Ensure fast loading times
-*Prioritize mobile responsiveness
--Key Features
-.Property search and filtering
-.Detailed property viewing
-.Secure checkout process
-.User authentication
+Design Goals
+* Create intuitive booking flow
+* Maintain visual consistency
+* Ensure fast loading times
+* Prioritize mobile responsiveness
+Key Features
+- Property search and filtering
+- Detailed property viewing
+- Secure checkout process
+- User authentication
 
 Page	           | Description
 -----------------|-------------------------------------------------------------
