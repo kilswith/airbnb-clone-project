@@ -6,10 +6,10 @@ github for version control and figma for UI/UX design
 
 # UI/UX design planning
 -Design Goals
-.Create intuitive booking flow
-.Maintain visual consistency
-.Ensure fast loading times
-.Prioritize mobile responsiveness
+*Create intuitive booking flow
+*Maintain visual consistency
+*Ensure fast loading times
+*Prioritize mobile responsiveness
 -Key Features
 .Property search and filtering
 .Detailed property viewing
@@ -70,5 +70,5 @@ Planned Components
   .Social media links
   .Copyright information
 
-
+Each component will be designed for reusability and consistency across the application.
 
