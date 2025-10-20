@@ -28,16 +28,18 @@ A well-designed booking system reduces friction in the user journey, increases c
 Clear navigation, intuitive interfaces, and responsive design are critical for succes
 
 Figma Design Specifications
+
 Color Styles:
-       Primary: #FF5A5F
-       Secondary: #008489
-       Background: #FFFFFF
-       Text: #222222
-       Secondary Text: #717171
+- Primary: #FF5A5F
+- Secondary: #008489
+- Background: #FFFFFF
+- Text: #222222
+- Secondary Text: #717171
+      
 Typography:
-       Primary Font: Circular, Medium (500), 16px 
-       Headings: Circular, Bold (700), 24px-32px
-       Secondary Text: Circular, Book (400), 14px
+- Primary Font: Circular, Medium (500), 16px 
+- Headings: Circular, Bold (700), 24px-32px
+- Secondary Text: Circular, Book (400), 14px
 
 # PROJECT ROLES AND RESPONSIBILITIES
 | Role	             |  Responsibilities                                                    |
@@ -53,23 +55,24 @@ Typography:
 
 # Ui COMPONENT PATTERNS
 Planned Components
+
 1.Navbar
-  .Logo
-  .Search bar
-  .User navigation
-  .Responsive menu
-  .Property Card
+- Logo
+- Search bar
+- User navigation
+- Responsive menu
+- Property Card
 
 2.Property image
-  .Basic details (price, location, rating)
-  .Favorite button
-  .Responsive layout
+- Basic details (price, location, rating)
+- Favorite button
+- Responsive layout
   
 3.Footer
-  .Site links
-  .Company information
-  .Social media links
-  .Copyright information
+- Site links
+- Company information
+- Social media links
+- Copyright information
 
 Each component will be designed for reusability and consistency across the application.
 
