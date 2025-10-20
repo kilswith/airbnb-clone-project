@@ -10,6 +10,7 @@ Design Goals
 * Maintain visual consistency
 * Ensure fast loading times
 * Prioritize mobile responsiveness
+  
 Key Features
 - Property search and filtering
 - Detailed property viewing
